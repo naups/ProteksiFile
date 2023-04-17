@@ -18,7 +18,7 @@ To use the Proteksi File module, you need to create an instance of the `FileEncr
 Here's an example usage:
 
 ```python
-from file_encryptor import FileEncryptor
+from fprotec import FileEncryptor
 
 ## create a new file encryptor with a custom key
 key = 'This is a custom key'
