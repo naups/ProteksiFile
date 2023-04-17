@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("Ini Feature Development untuk ...")
+print("Ini Feature Development untuk A")
